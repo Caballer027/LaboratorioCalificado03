@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado03</string>
+    <string name="button_go_to_ejercicio">Ir a Ejercicio01</string>
+    <string name="error_loading_data">Error al cargar datos</string>
+    <string name="button_go_to_exercise">Go to Exercise 01</string>
+    <string name="call_profesor">Llamar a</string>
+    <string name="send_email_profesor">Enviar correo a</string>
+</resources>
